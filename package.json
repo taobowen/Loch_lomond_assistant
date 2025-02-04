@@ -1,0 +1,17 @@
+{
+  "name": "loch_lomond_assistant",
+  "version": "1.0.1",
+  "description": "Get ski resort information and save it to a file",
+  "main": "index.js",
+  "bin": {
+    "loch": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js info"
+  },
+  "author": "frank",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  }
+}
