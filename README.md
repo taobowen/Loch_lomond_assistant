@@ -8,7 +8,12 @@ Hi there! This is a cool tool that helps you get the latest information about th
 
 ## Installation
 
-1. Open a terminal and run the following command to install the Loch Lomond Assistant globally:
+1. Open a terminal (Mac)
+
+- Press `Command + Space` to open Spotlight Search.
+- Type `Terminal` and press `Enter`.
+
+2. Run the following command to install the Loch Lomond Assistant globally:
 
     ```sh
     npm install -g loch_lomond_assistant
@@ -19,7 +24,10 @@ Hi there! This is a cool tool that helps you get the latest information about th
 To use the Loch Lomond Assistant, follow these steps:
 
 1. Pick an empty folder where you want to save the images.
-2. Open a terminal in that folder.
+2. Open a terminal in that folder. If you don't know how to open a terminal in a specific folder on a Mac, follow these steps:
+    - Select the specified folder in Finder.
+    - Press `Control` and click the mouse.
+    - In the pop-up menu, select `New Terminal at Folder`.
 3. Run the following command to get the latest ski resort information:
 
     ```sh
