@@ -60,7 +60,7 @@ If you encounter any issues, make sure you have the latest version of Node.js an
 
 ## Author
 
-Created by Frank.
+Created by Frank 🏂🏻.
 
 ---
 
